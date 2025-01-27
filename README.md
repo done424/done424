@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 - 🔭 LLM/AI for research and product
 - 🔥 My recent contribution : [chess](https://www.kylelacklock.com), [Awesome-LLM-related-Papers-Comprehensive-Topics](https://github.com/shure-dev/Awesome-LLM-for-Robotics-Reasoning), [NLaP](https://github.com/shure-dev/NLaP)
 - GitHub Account for my internship: https://github.com/done424
+https://www.linkedin.com/in/maxhansmire/
